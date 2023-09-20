@@ -13,7 +13,7 @@ const AboutUs = () => {
 
   return (
     <>
-      <section className="w-screen bg-base-200">
+      <section className="w-full bg-base-200">
         <div className="container py-5 lg:py-24 mx-auto md:px-6">
           {/* Section: Design Block */}
 
@@ -58,7 +58,7 @@ const AboutUs = () => {
             <div className="w-full pt-5 shrink-0 grow-0 basis-auto md:px-6 lg:w-7/12">
               <div
                 className="mb-12 flex"
-                data-aos="zoom-in-left"
+                data-aos="fade-up"
                 data-aos-duration="1000"
               >
                 <div className="shrink-0">
@@ -79,7 +79,7 @@ const AboutUs = () => {
               </div>
               <div
                 className="mb-12 flex"
-                data-aos="zoom-in-left"
+                data-aos="fade-up"
                 data-aos-duration="1000"
               >
                 <div className="shrink-0">
@@ -105,7 +105,7 @@ const AboutUs = () => {
               </div>
               <div
                 className="mb-12 flex"
-                data-aos="zoom-in-left"
+                data-aos="fade-up"
                 data-aos-duration="1000"
               >
                 <div className="shrink-0">
